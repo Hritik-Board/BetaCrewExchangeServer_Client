@@ -26,7 +26,7 @@ Running the Server and Client
 In another terminal, navigate to the directory where the client script is located and run:
 
 - node client.js
-- <br>
+  <br>
 
 This script will connect to the server on port 3000, request all packets, and handle any missing sequences by requesting them specifically.
 
