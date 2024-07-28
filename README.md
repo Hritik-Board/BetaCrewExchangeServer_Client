@@ -3,15 +3,18 @@ Please note that you will need to have Node.js v6.0.0 or above. Will recommend t
 **We have already provided the whole node module in the folder, will suggest to directly copy into your local amchine**
 
 Please run the below mentioned commands for the environment setup.
+
 <br>
 ---- OPTIONAL STEP ----- 
+<br>
 Navigate to the directory where main.js is located and install any required dependencies:
 
 - npm install
 
 <br>
-
 ---- MANDATORY STEPS ----- 
+<br>
+
 Running the Server and Client
 Start the Server
 
