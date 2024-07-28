@@ -16,16 +16,19 @@ Navigate to the directory where main.js is located and install any required depe
 <br>
 
 Running the Server and Client
-Start the Server
+<br>
+**Start the Server**
 
 - node main.js
 
-Run the Client
+**Run the Client**
 
 In another terminal, navigate to the directory where the client script is located and run:
 
 - node client.js
-  This script will connect to the server on port 3000, request all packets, and handle any missing sequences by requesting them specifically.
+- <br>
+
+This script will connect to the server on port 3000, request all packets, and handle any missing sequences by requesting them specifically.
 
 ### Additional
 
